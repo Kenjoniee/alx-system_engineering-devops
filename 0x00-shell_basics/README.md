@@ -1,1 +1,1 @@
-delete the file directory
+delete the filetory
