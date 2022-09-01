@@ -1,1 +1,1 @@
-This is a goat /tmp/ directory
+move the file betty from /tmp/ to /tmp/my_first_directory
