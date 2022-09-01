@@ -1,1 +1,1 @@
-Display current contents in
+Display current ents in
