@@ -1,1 +1,1 @@
-delete the filetry
+delete the fletry
