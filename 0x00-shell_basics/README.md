@@ -1,1 +1,1 @@
-delete the filetory
+delete the filetry
