@@ -1,1 +1,1 @@
-delete the fletry
+delete the flety
